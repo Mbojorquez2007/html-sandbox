@@ -24,7 +24,41 @@
 			</tr>
 		</table>
 
-		<-- This is an HTML comment -->
+		<!-- This is an HTML comment -->
 		<h2>A few of My Favorite Things</h2>
+		<ul>
+			<li>Tacos
+			<li>The Beach</li>
+			<li>Kittens</li>
+			<li>Fast cars</li>
+		</ul>
+
+		<h2>Things to do today</h2>
+		<ol>
+			<li>Feed the kitty</li>
+			<li>Figure out how to code</li>
+
+		</ol>
+
+		<h2>I <3 Pikachu</h2>
+		<img src="images/michelle.jpg" alt="michelle">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	</body>
 </html>
